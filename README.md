@@ -17,7 +17,7 @@
 ### Option 1: Clone the repository
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/ADS_Scanner.git
+git clone https://github.com/Y-JANBOUBI/ADS_Scanner.git
 cd ADS_Scanner
 ```
 
