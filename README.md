@@ -24,7 +24,8 @@ cd ADS_Scanner
 ### Option 2: Download the script directly
 
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/YOUR_USERNAME/ADS_Scanner/main/ADS_Scanner.ps1" -OutFile "ADS_Scanner.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Y-JANBOUBI/ADS_Scanner/refs/heads/main/ADS_Scanner.ps1" -OutFile "ADS_Scanner.ps1"
+
 ```
 
 ---
